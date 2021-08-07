@@ -1,4 +1,4 @@
-# fitness_app_kabir
+# fitness_app
 
 A new Flutter application.
  
